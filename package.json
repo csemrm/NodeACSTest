@@ -1,0 +1,23 @@
+{
+	"name": "NodeACSTest",
+	"version": "0.1.0",
+	"description": "NodeACSTest",
+	"framework": "mvc",
+	"bodyParser": true,
+	"main": "app.js",
+	"logfile": "NodeACSTest.log",
+	"keywords": [],
+	"author": "Md. Mostafizur Rahman",
+	"maintainers": [],
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"preferGlobal": false,
+	"dependencies": {
+		"express-partials": "*"
+	},
+	"license": "",
+	"private": true
+}
